@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Liam Carr
-- 👀 I’m interested in Cybersecurity, Front-End development and anything else IT related
-- 🌱 I’m currently learning a range of techonlogies including Javascript, PHP, CSS, Google API, Kali Linux, Ethical Hacking, Network Technolgoies
 - 📫 How to reach me - LiamCarr66@gmail.com
 
 <!---
